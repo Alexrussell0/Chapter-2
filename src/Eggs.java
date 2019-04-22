@@ -21,7 +21,7 @@ public class Eggs {
         total = PRICE_DOZEN * dozens + leftOver * PRICE_EACH;
 
         System.out.println("You ordered" +  eggsOrdered +
-        "eggs. That's" + dozens + "dozen at" + );
+                "eggs. That's" + dozens + "dozen at" + );
 
     }
 }
